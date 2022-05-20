@@ -1,0 +1,4 @@
+Comandos básicos do Git:
+
+git add
+git commit

@@ -1,4 +1,13 @@
-Comandos básicos do Git:
+Anotações gerais:
+- Git usa o algoritmo SHA1 nos arquivos do códigos;
 
-git add
-git commit
+Objetos fundamentais do Git:
+- Blobs
+- Trees
+- Commits
+
+Comandos básicos do Git:
+- git init
+- git add
+- git commit
+- git push
